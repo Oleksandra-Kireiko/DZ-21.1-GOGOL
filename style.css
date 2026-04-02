@@ -1,0 +1,54 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#main-header {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    color: darkblue;
+}
+
+.subtitle {
+    color: darkred;
+    margin-left: 20px;
+}
+
+.text {
+    margin-left: 20px;
+}
+
+.list {
+    margin-left: 40px;
+}
+
+.main-photo {
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.menu {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu a:hover {
+    color: red;
+}
+.gallery-photo {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid black;
+}
